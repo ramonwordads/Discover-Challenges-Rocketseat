@@ -1,0 +1,208 @@
+body {
+    background: #A19E9E;
+}
+
+
+
+div#caixa-principal{
+    box-sizing: border-box;
+    position: absolute;
+    width: 532px;
+    height: 721px;
+    top: 100px;
+    left: 700px;
+    
+    background: #D9D9D9;
+    border: 2px solid rgba(6, 6, 7, 0.103);
+    box-shadow: 1px 4px 4px  #090d141c;
+    backdrop-filter: blur(4px);
+}
+
+
+
+
+
+figure img#euramon{
+    position: absolute;
+    left: 180px;
+    top: 100px;
+    box-sizing: border-box;
+    border: solid 1px rgb(255, 255, 255);
+    border-radius: 100%;
+    box-shadow: 1px 2px 4px black;
+    
+    
+  
+    
+    
+}
+
+p#meuarroba{
+
+    position: absolute;
+    left: 220px;
+    top: 250px;
+
+    color: #FFFEFE;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 15px;
+
+}
+
+
+li{
+
+    list-style: none;
+}
+
+a#caixa1{
+    box-sizing: border-box;
+
+    position:relative;
+    left: 160px;
+    top: 280px;
+    padding: 10px;
+    width: 10px;
+    line-height: 50px;
+    padding-right: 47px;
+    
+    
+    
+
+    background-color: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    
+}
+
+a#caixa2{
+
+    position:relative;
+    left: 160px;
+    top: 290px;
+    padding: 10px;
+    
+    
+    background-color: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    box-sizing: border-box;
+    padding-right: 48px;
+}
+
+a#caixa3{
+
+    position:relative;
+    left: 160px;
+    top: 315px;
+    padding: 10px;
+    
+    
+    background-color: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    box-sizing: border-box;
+    padding-right: 63px;
+}
+
+a#caixa4{
+
+    position:relative;
+    left: 160px;
+    top: 339px;
+    padding: 10px;
+    
+    
+    background-color: #FFFFFF;
+    border: 1px solid #C6C6C6;
+    box-sizing: border-box;
+    padding-right: 52px;
+}
+
+
+span.fontcaixa{
+    font-size: 13px;
+    
+    
+}
+
+
+div#caixa-description{
+    position: absolute;
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: 1px 2px 2px rgba(255, 255, 255, 0.288);
+    height: 40px;
+    width: 380px;
+    margin-left: 55px;
+    margin-top: 480px;
+    background-color: #FFFFFF;
+    
+}
+
+div #insta{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 190px;
+    
+}
+
+div #face{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 225px;
+    
+}
+div #gith{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 260px;
+    
+}
+
+div #linkedin{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 295px;
+    
+}
+
+.font-dev{
+    position: absolute;
+    margin-left: 10px;
+    color: #4889C5;
+    font-weight: bold;
+}
+
+.font-description{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 85px;
+    font-size: 12px;
+    color: #4889C5;
+}
+
+div img#iconprogram{
+    position: absolute;
+    left: 320px;
+    margin-top: 5px;
+}
+
+
+
+a#caixa1,a#caixa2,a#caixa3,a#caixa4  {
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px 1px ;
+    background-color: #ffffffb9;
+}
+    a:hover#caixa1,a:hover#caixa2,a:hover#caixa3,a:hover#caixa4 {
+       background-color: rgb(94, 94, 94);
+       transition: 2s;
+        }
+
+        a:link, a:visited, a:hover ,a:active{
+            color: #4889C5;
+            text-decoration: none}
+
+
+            
+        
