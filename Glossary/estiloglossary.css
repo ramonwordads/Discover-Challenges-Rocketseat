@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(136, 136, 136, 0.425);
+}
+
+.caixa-principal{
+    border: 2px solid rgba(80, 78, 78, 0.89);
+    background-color: rgba(255, 255, 255, 0.781);
+    margin: auto;
+    width: 1750px;
+    height: 900px;
+}
+
+header#minhaimg{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+div{
+    border: 1px solid rgb(20, 15, 15);
+    margin: auto;
+    width: 1650px;
+    background-color: rgba(216, 216, 216, 0.404);
+}
+
+h1{
+    border: 1px dotted black;
+    background-color: rgba(216, 216, 216, 0.329); ;
+    margin-left: 49px;
+    width: 250px;
+}
+
+dd{
+    margin-bottom: 15px;
+}
+
+dl{
+    margin: auto;
+    width: 1500px;
+    padding: 20px;
+
+}
+
+
+footer{
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    margin-top: 15px;
+    color: aliceblue;
+    text-shadow: 1px 1px 4px  black;
+}
