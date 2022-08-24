@@ -1,0 +1,182 @@
+@font-face{
+    font-family: 'onepiecefont';
+    src: url('onepiecefont.ttf') format('truetype');
+}
+
+
+body{
+    
+    background-color: #000000;
+   
+    
+}
+
+
+div img#imgfundo{
+    border: 1px solid rgba(180, 180, 180, 0.144);
+    position: absolute;
+    width: 850px;
+    height: 927px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    
+    
+
+}
+
+header{
+    
+    position: relative;
+    width: 500px;
+    top: 35px;
+    left: 105px;
+    background-color: rgb(0, 0, 0);
+}
+
+header img#mycaveira{
+
+    left: 50px;
+}
+
+header .piecenews{
+    border: 1px solid rgba(182, 177, 177, 0.644);
+    position: absolute;
+    top: -20px;
+    left: 99px;
+    font-family: 'onepiecefont';
+    font-size: 70px;
+    letter-spacing: 15px;
+    color:rgba(255, 255, 255, 0.945);
+    
+}
+
+div .textoleads{
+    margin-top: 0px;
+    font-weight: 800;
+    text-shadow: #b1a5a5b0 1px 1px 3px;
+    font-family: inherit,normal;
+    left: 80px;
+    top: 180px;
+    border: 1px solid rgb(0, 0, 0);
+    color: #FF0000;
+    font-size: 30px;
+
+}
+
+div .paragrafoleads{
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    left: 20px;
+    top: 42px;
+    width: 850px;
+    text-align: start;
+    color: white;
+    text-shadow: rgba(255, 255, 255, 0.692) 1px 1px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+div#caixatextos{
+    position: absolute;
+    top: 250px;
+    left: 80px;
+}
+
+form{
+
+    position: absolute;
+    top: 300px;
+}
+
+legend{
+    color: rgba(255, 255, 255, 0.829);
+    text-shadow: 1px 1px 3px rgb(255, 254, 254);
+    font-family: 'arial', normal, sans-serif;
+    margin-bottom: 15px;
+}
+
+input{
+    height: 30px;
+    border-left: 5px solid red;
+    
+}
+
+button{
+    position: absolute;
+    top: 34px;
+    margin-left: 7px;
+    height: 34px;
+    width: 40px;
+    
+    
+
+}
+
+.meulink{
+    position: absolute;
+    font-size: 14px;
+    letter-spacing: 1px;
+    top: 100px;
+    left: 70px;
+    padding: 4px;
+     color: #F50000;
+    background-color:rgba(255, 252, 252, 0.22);
+    border: 1px solid rgba(255, 255, 255, 0.39);
+}
+
+.acordo{
+    position: absolute;
+    line-height: 25px;
+    letter-spacing: 1px;
+    left: 50px;
+    top: 500px;
+    color: rgba(175, 170, 170, 0.61);
+}
+
+
+footer{
+    
+    color: rgba(255, 255, 255, 0.199);
+}
+
+
+a:link {
+    color:#ff0000;
+    text-decoration:none;
+  }
+
+  a:visited {
+    color:#d30303;
+    text-decoration:none;
+  }
+
+  a:hover {
+    color:#f5f4f4;
+    text-decoration:underline;
+    transition: 1s;
+  }
+
+  a:active {
+    color:#fbff00;
+    text-decoration:underline;
+    background-color:#000000;
+  }
+
+  figure img#iconedocont{
+    position: absolute;
+    opacity: 40%;
+    top: 525px;
+    left: 670px;
+  }
+
+
+  footer{
+    position: relative;
+    border: 1px solid rgba(255, 0, 0, 0.089);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 1px 3px 2px #1d1818b4;
+    letter-spacing: 1px;
+    top: 800px;
+  }
